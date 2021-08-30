@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    text-align: center;
+    
+    font-weight: bold;
+    flex-direction: column;
+}
+h1{
+    color:honeydew;
+    background-color: black;
+}
+.center{
+    text-align: center;
+    padding: 5px;
+}
+#container{
+    box-shadow: 1px 3px 9px 6px  grey;
+    padding: 22px;
+    height: 190px;
+    background-color: honeydew;
+}
